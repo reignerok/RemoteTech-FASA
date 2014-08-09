@@ -39,7 +39,8 @@ What is changed?
 Installation
 ------------
 
-Copy the GameData folder into your Kerbal Space Program folder. Make sure that the folder hierarchy is correct before of starting the game.
+1. Download the latest release from [https://github.com/reignerok/RemoteTech-FASA/releases](here).
+2. Unzip and copy the GameData folder into your Kerbal Space Program folder. Make sure that the folder hierarchy is correct before of starting the game.
 
 Disclaimer
 ----------
